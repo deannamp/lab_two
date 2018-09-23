@@ -1,0 +1,54 @@
+{
+	"name": [
+		"Ryan",
+		"Joe",
+		"Noel",
+		"Sarah"
+	],
+	"occupation": [
+		"doctor",
+		"teacher",
+		"salesman"
+	],
+	"origin": [
+		"#name#, a #occupation#, was #always# #expecting# this #but#,their life #changed# forever. Their #shocking# #discovery# reveals what companies don't want you to know"
+	],
+	"always": [
+		"always",
+		"consistently",
+		"constantly ",
+		"eternally "
+	],
+	"expecting": [
+		"expecting",
+		"anticipating",
+		"hoping for ",
+		"waiting for "
+	],
+	"but": [
+		"but",
+		"until ",
+		"then "
+	],
+	"changed": [
+		"changed",
+		"transformed"
+	],
+	"shocking": [
+		"shocking",
+		"surprising",
+		"astonishing",
+		"startling"
+	],
+	"change": [
+		"change",
+		"transform ",
+		"revolutionize"
+	],
+	"discovery": [
+		"discovery",
+		"encounter",
+		"finding",
+		"breakthrough"
+	]
+}
